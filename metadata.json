@@ -1,0 +1,5 @@
+{
+  "name": "Control de Vinoteca",
+  "description": "An application to digitize and manage your wine cellar by capturing and analyzing wine labels using AI.",
+  "requestFramePermissions": []
+}
